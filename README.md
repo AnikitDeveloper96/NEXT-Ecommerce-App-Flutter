@@ -1,3 +1,4 @@
+# NEXT-Ecommerce-App-Flutter
 🚀 Building "NEXT": A Cross-Platform E-commerce App with Flutter 📱🌟
 
 This repository contains the code for a cross-platform e-commerce mobile application, "NEXT," built using Flutter.  The project focuses on creating a stunning and intuitive user experience.
@@ -20,4 +21,3 @@ Tech Stack:
 Contributions and collaboration are welcome!
 
 #Flutter #Ecommerce #MobileAppDevelopment #UIUX #Android #iOS #CrossPlatform #FlutterTutorial #AppDesign #MobileDev #NEXT #FlutterTips #AppOnboarding #MobileDevelopment #UserInterface #SoftwareDevelopment #FlutterDev #AppDesign #UserExperience #FashionTech #FlutterCommunity #FlutterDevs
-# NEXT-Ecommerce-App-Flutter
