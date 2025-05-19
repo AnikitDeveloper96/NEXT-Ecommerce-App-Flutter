@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485838989734",
+    "project_id": "next-ecommerce-app-33682",
+    "storage_bucket": "next-ecommerce-app-33682.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485838989734:android:98aa7c8824c4eb15fe8767",
+        "android_client_info": {
+          "package_name": "com.example.nextecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485838989734-b5set5hqj23itg0rg87ldav5lg42mbg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nextecommerceapp",
+            "certificate_hash": "74677d81f63248190790ce327c2e1927ab421147"
+          }
+        },
+        {
+          "client_id": "485838989734-n196tr4bgq768jd3so2vc8i57gcrgbpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA4B07ppa5KMXSPe2n-WE3f1zd-UO3Boc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485838989734-n196tr4bgq768jd3so2vc8i57gcrgbpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
